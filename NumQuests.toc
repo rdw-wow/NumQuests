@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: NumQuests
+## Notes: How many quests do you have?
+## Version: 7
+## Author: Kanegasi
+
+nqcore.lua
